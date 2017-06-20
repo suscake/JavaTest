@@ -9,6 +9,7 @@ public class JavaMavenGitTest {
         LocalTime currentTime = new LocalTime();
         System.out.println("The current local time is: " + currentTime);
         System.out.println("hello world!");
+        System.out.println("hello world again!");
     }
 
 }
