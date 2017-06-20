@@ -29,6 +29,9 @@
                 <version>1.6.0</version>
                 <configuration>
                     <mainClass>JavaMavenGitTest</mainClass>
+		    <arguments>
+            		<argument>Geralt</argument>
+          	    </arguments>
                 </configuration>
             </plugin>
             <plugin>
