@@ -10,7 +10,8 @@ public class JavaMavenGitTest {
         System.out.println("The current local time is: " + currentTime);
         System.out.println("hello world!");
         System.out.println("hello world again!");
-	System.out.println("hello from args: "+args[0]);
+	for(int i=0;i<args.length;i++)
+	System.out.println("hello from args: "+args[i]);
     }
 
 }
